@@ -1,0 +1,1 @@
+{"name":"Unown","abilities":[{"name":"levitate","description":""}],"attack":72,"defense":48,"speed":48,"hp":48,"sp_atk":72,"sp_def":48,"total":0,"types":[{"name":"psychic"}],"moves":[{"name":"Hidden Power","type":"Normal","category":"Special","power":60,"accuracy":100,"pp":15,"description":"Type and power depends on user's IVs."}]}

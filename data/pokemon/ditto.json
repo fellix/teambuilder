@@ -1,0 +1,1 @@
+{"name":"Ditto","abilities":[{"name":"limber","description":""},{"name":"imposter","description":""}],"attack":48,"defense":48,"speed":48,"hp":48,"sp_atk":48,"sp_def":48,"total":0,"types":[{"name":"normal"}],"moves":[{"name":"Transform","type":"Normal","category":"Status","power":-1,"accuracy":-1,"pp":10,"description":"User takes on the form and attacks of the opponent."}]}

@@ -1,0 +1,67 @@
+normal: {
+  name: 'Normal'
+}
+
+fire: {
+  name: 'Fire'
+}
+
+fighting: {
+  name: 'Fighting'
+}
+
+water: {
+  name: 'Water'
+}
+
+flying: {
+  name: 'Flying'
+}
+
+grass: {
+  name: 'Grass'
+}
+
+poison: {
+  name: 'Poison'
+}
+
+electric: {
+  name: 'Electric'
+}
+
+ground: {
+  name: 'Ground'
+}
+
+psychic: {
+  name: 'Psychic'
+}
+
+rock: {
+  name: 'Rock'
+}
+
+ice: {
+  name: 'Ice'
+}
+
+bug: {
+  name: 'Bug'
+}
+
+dragon: {
+  name: 'Dragon'
+}
+
+ghost: {
+  name: 'Ghost'
+}
+
+dark: {
+  name: 'Dark'
+}
+
+steel: {
+  name: 'Steel'
+}
