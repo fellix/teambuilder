@@ -1,0 +1,9 @@
+{
+  "name": "teambuilder",
+  "version": "0.0.1",
+  "dependencies": {
+    "fluxo": "0.0.5",
+    "react": "~0.13.2",
+    "underscore": "*"
+  }
+}
